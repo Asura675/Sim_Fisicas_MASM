@@ -1,0 +1,3 @@
+C:/Users/PC/OneDrive/Documentos/Sim_Fisicas_MAMS/hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/hola_mundo.dir
+C:/Users/PC/OneDrive/Documentos/Sim_Fisicas_MAMS/hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+C:/Users/PC/OneDrive/Documentos/Sim_Fisicas_MAMS/hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir
