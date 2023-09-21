@@ -1,0 +1,3 @@
+C:/Users/PC/OneDrive/Documentos/Sim_Fisicas_MiguelAMS/hola_jupiter/cmake-build-debug-visual-studio/CMakeFiles/hola_jupiter.dir
+C:/Users/PC/OneDrive/Documentos/Sim_Fisicas_MiguelAMS/hola_jupiter/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+C:/Users/PC/OneDrive/Documentos/Sim_Fisicas_MiguelAMS/hola_jupiter/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir
