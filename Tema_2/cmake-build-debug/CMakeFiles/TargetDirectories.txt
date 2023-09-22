@@ -1,0 +1,3 @@
+C:/Users/PC/OneDrive/Documentos/Sim_Fisicas_MiguelAMS/Tema_2/cmake-build-debug/CMakeFiles/Tema_2.dir
+C:/Users/PC/OneDrive/Documentos/Sim_Fisicas_MiguelAMS/Tema_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/OneDrive/Documentos/Sim_Fisicas_MiguelAMS/Tema_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
