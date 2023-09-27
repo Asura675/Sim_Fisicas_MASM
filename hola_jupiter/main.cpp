@@ -3,7 +3,7 @@
 
 int main(){
     //Creacion del mundo y de la gravedad
-    b2Vec2 gravity(0.0f, -24.79f); //Define la gravedad de la luna
+    b2Vec2 gravity(0.0f, -24.79f); //Define la gravedad de Jupier
     b2World world (gravity);
 
     //Caracteristicas del cuerpo
