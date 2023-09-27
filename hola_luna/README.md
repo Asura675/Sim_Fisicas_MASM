@@ -56,7 +56,7 @@ int main(){
 }
 ```
 
-## Cambios hechos a Hola Mundo
+## Cambios hechos al código
 
 En este código se uso de base el hecho en hola mundo ya que su lógica es la misma aunque con sus pequeños cambios para esta vez hacer una simulación de la caída de un cubo en la luna. Los cambios hechos fueron estos:
 1.-Cambio de la gravedad de 9.81 m/s² a 1.62 m/s² (la gravedad que hay en la luna) para simular la caída en la luna.
