@@ -26,13 +26,13 @@ int main(){
 
     //Creacion del cubo
     b2BodyDef bodyDef;
-    bodyDef.type = b2_dynamicBody;
-    bodyDef.position.Set(0.0f,20.f);
+    bodyDef.type = b2_dynamicBody; //Cuerpo Dinamico 
+    bodyDef.position.Set(0.0f,20.f); //Posicion inicial
 
     b2Body* body = world.CreateBody(&bodyDef);
 
     b2PolygonShape dynamicBox;
-    dynamicBox.SetAsBox(1.0f,1.0f);
+    dynamicBox.SetAsBox(1.0f,1.0f); // Tamaño del cubo
 
     b2FixtureDef fixtureDef;
     fixtureDef.shape = &dynamicBox;
