@@ -55,9 +55,9 @@ int main(){
 }
 ```
 
-## Cambios hechos al código de Hola Luna
+## Cambios hechos al código
 
-Parecido a lo que ocurrió con Hola Mundo ahora se cambiaron los datos que se habían configurado en hola Luna para poder hacer la simulación de un cubo hecho a base de carburo de tungsteno que pesa 15g/cm3. 
+Parecido a lo que ocurrió con Hola Mundo ahora se cambiaron los datos que se habían configurado en hola Luna para poder hacer la simulación de la caida de un cubo hecho a base de carburo de tungsteno que pesa 15g/cm3 en Júpiter. 
 
 Primero que nada se debió cambiar la gravedad del mundo ya que estamos teniendo una simulación en Júpiter cuya gravedad es de 24.79 m/s² así que pasamos de la gravedad de la luna de 1.62 a la de Júpiter en este código.
 
