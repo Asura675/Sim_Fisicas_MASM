@@ -32,7 +32,7 @@ int main(){
     b2FixtureDef fixtureDef;
     fixtureDef.shape = &dynamicBox;
     fixtureDef.density = 15600.0f;
-    fixtureDef.friction = 0.8f; //No hay friccion en la luna
+    fixtureDef.friction = 0.8f;
 
     body ->CreateFixture(&fixtureDef);
 
