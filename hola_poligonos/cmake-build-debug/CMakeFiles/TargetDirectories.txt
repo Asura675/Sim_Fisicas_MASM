@@ -1,0 +1,3 @@
+C:/Users/PC/OneDrive/Documentos/Sim_Fisicas_MiguelAMS/hola_poligonos/cmake-build-debug/CMakeFiles/hola_poligonos.dir
+C:/Users/PC/OneDrive/Documentos/Sim_Fisicas_MiguelAMS/hola_poligonos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/OneDrive/Documentos/Sim_Fisicas_MiguelAMS/hola_poligonos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
