@@ -85,7 +85,7 @@ int main() {
     octagonBody->CreateFixture(&octagonShape, 1.0f);
 
     // Definir el tiempo de paso para la simulación
-    float timeStep = 1.0f / 60.0f;  // Asumiendo una frecuencia de 60 Hz
+    float timeStep = 1.0f / 60.0f;  
     int32 velocityIterations = 6;  // Número de iteraciones de velocidad
     int32 positionIterations = 2;  // Número de iteraciones de posición
 
