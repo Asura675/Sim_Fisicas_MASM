@@ -1,3 +1,0 @@
-C:/Users/PC/OneDrive/Documentos/Sim_Fisicas_MiguelAMS/VentanaSfml/cmake-build-debug/CMakeFiles/VentanaSfml.dir
-C:/Users/PC/OneDrive/Documentos/Sim_Fisicas_MiguelAMS/VentanaSfml/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/PC/OneDrive/Documentos/Sim_Fisicas_MiguelAMS/VentanaSfml/cmake-build-debug/CMakeFiles/rebuild_cache.dir
